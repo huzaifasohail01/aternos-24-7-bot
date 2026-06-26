@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "mcfleet.dpdns.org",
+    "ip": "magmamc90.aternos.me:",
     "port": 39498,
     "version": "1.20.1",
     "try-creative": false
